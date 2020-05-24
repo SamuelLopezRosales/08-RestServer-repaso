@@ -4,3 +4,6 @@ password: l0M5HNTh60A1SfWO
 MONGDB URL
 
 mongodb+srv://samuel:l0M5HNTh60A1SfWO@cluster0-yrqa3.mongodb.net/cafe
+
+// url en heroku 
+https://fast-garden-67983.herokuapp.com/
