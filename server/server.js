@@ -15,9 +15,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // ================================================
-// RUTAS A USAR
+// RUTAS A USAR configuracion global de rutas
 // ================================================
-app.use(require('./routes/usuario'));
+app.use(require('./routes/index'));
 
 
 // conectar base de datos 
